@@ -4,7 +4,7 @@
 
 - 🔥 Graduating in Computer Science - UEPB
 
-- 🔭 I’m currently intern at [NUTES](https://nutes.uepb.edu.br/)
+- 🔭 I'm currently an intern at [NUTES](https://nutes.uepb.edu.br/)
 
 - 🌱 I’m currently learning Power BI and Python
 
