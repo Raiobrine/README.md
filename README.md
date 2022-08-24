@@ -28,22 +28,22 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
-![JAVA](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=java)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raiobrine&show_icons=true&theme=jolly" alt="Raiobrine's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiobrine&layout=compact&theme=jolly" alt="Raiobrine's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raiobrine&show_icons=true&theme=ocean_dark" alt="Raiobrine's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiobrine&layout=compact&theme=ocean_dark" alt="Raiobrine's most languages"/>
 </p>
 
 <br><br>
 
 ## 💬 &nbsp;Contact
 
-<p align="left" style="background:yellow">
+<p align="left" style="background:blueviolet">
 <a href="https://www.linkedin.com/in/jefferson-gomes-04b567238/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jefferson Gomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -58,4 +58,3 @@
  <img align="center" src="https://img.shields.io/badge/-Jefferson-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
 </p>
-
