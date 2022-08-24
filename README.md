@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Raiobrine/1b599c36881a37e5497758c56cc39e26/raw/f2efe83ece88adea3887848c9c12c89e5111d46a/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Raiobrine/b04e2df2f8ea53a830e5cc24cd8dc2f4/raw/008af715cd6f67e8480a800c2cff22d94e396953/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jefferson Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raiobrine&color=blueviolet" alt="Profile views" /> </p>
 
@@ -35,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raiobrine&show_icons=true&theme=aura_dark" alt="Raiobrine's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiobrine&layout=compact&theme=aura_dark" alt="Raiobrine's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raiobrine&show_icons=true&theme=ocean_dark" alt="Raiobrine's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiobrine&layout=compact&theme=ocean_dark" alt="Raiobrine's most languages"/>
 </p>
 
 <br><br>
