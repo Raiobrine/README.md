@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, PowerBI, Design**
 
-- 👨‍💻 More at [coming soon](https://www.linkedin.com/in/jefferson-gomes-04b567238/)
+- 👨‍💻 More at [my site](https://portfolio-jefferson.w3spaces.com)
 
 <br><br>
 
