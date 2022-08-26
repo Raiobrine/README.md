@@ -44,7 +44,7 @@
 ## 💬 &nbsp;Contact
 
 <p align="left" style="background:blueviolet">
-<a href="https://www.linkedin.com/in/jefferson-gomes-04b567238/" target="_blank">
+<a href="https://www.linkedin.com/in/jefferson-gomes-raiobrine/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jefferson Gomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/jefftheson_/" target="_blank">
