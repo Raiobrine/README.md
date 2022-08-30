@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Power BI and Python
 
-- 💬 Ask me about **PowerBI, Design, HTML, CSS, Python,**
+- 💬 Ask me about **PowerBI, Design, HTML, CSS, Python**
 
 - 👨‍💻 More at my [Website](https://portfolio-jefferson.w3spaces.com)
 
