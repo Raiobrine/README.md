@@ -30,6 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=java)&nbsp;
 ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=plastic&logo=figma)&nbsp;
+![FLASK](https://img.shields.io/badge/-FLASK-05122A?style=plastic&logo=flask)&nbsp;
+![COLAB](https://img.shields.io/badge/-COLAB-05122A?style=plastic&logo=colab)&nbsp;
 
 <br><br>
 
