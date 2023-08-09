@@ -31,7 +31,6 @@
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=java)&nbsp;
 ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=plastic&logo=figma)&nbsp;
 ![FLASK](https://img.shields.io/badge/-FLASK-05122A?style=plastic&logo=flask)&nbsp;
-![CHATGPT](https://img.shields.io/badge/-CHATGPT-05122A?style=plastic&logo=chatgpt)&nbsp;
 
 <br><br>
 
