@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jefferson Gomes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raiobrine&color=blueviolet" alt="Profile views" /> </p>
 
-- 🔥 Graduating in Computer Science - UEPB
+- 🔥 Graduated in Computer Science - UEPB
 
 - 🔭 I'm currently an intern at [NUTES](https://nutes.uepb.edu.br/)
 
