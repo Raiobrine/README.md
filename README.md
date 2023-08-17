@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently an intern at [NUTES](https://nutes.uepb.edu.br/)
 
-- 🌱 I’m currently learning Power BI and Python
+- 🌱 I’m currently learning Flask and Python
 
 - 💬 Ask me about **PowerBI, Design, HTML, CSS, Python**
 
